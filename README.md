@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **usmanahmed5776@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/usmanahmadrajput](www.linkedin.com/in/usmanahmadrajput)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
