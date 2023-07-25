@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/usmanahmadrajput](www.linkedin.com/in/usmanahmadrajput)
 
-- ⚡ Fun fact **I think i'm funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
