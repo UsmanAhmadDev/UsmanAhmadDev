@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanahmaddev&label=Profile%20views&color=0e75b6&style=flat" alt="usmanahmaddev" /> </p>
 
-- 🌱 I’m currently learning ** Core JavaScript**
+- 🌱 I’m currently learning  Core JavaScript
 
 - 💬 Ask me about **HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript**
 
