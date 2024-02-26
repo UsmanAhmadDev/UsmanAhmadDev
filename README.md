@@ -1,4 +1,4 @@
-![logo](https://github.com/UsmanAhmadDev/UsmanAhmadDev/blob/main/Add%20a%20subheading.gif)
+![logo](https://github.com/UsmanAhmadDev/UsmanAhmadDev/blob/main/github%20banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Usman Ahmad</h1>
 <h3 align="center">A passionate frontend web developer</h3>
